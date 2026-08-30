@@ -1,0 +1,24 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# Arduino IDE settings
+.arduinoIDE/
+
+# Code editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*~
+
+# macOS and Windows metadata
+.DS_Store
+Thumbs.db
